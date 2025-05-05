@@ -1,3 +1,3 @@
-Nama  : Fahmi Rinaldi Putra
-Kelas : MI2C
-NIM   : 2301092013
+<p>Nama  : Fahmi Rinaldi Putra</p>
+<p>Kelas : MI2C</p>
+<p>NIM   : 2301092013</p>
